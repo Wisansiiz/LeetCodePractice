@@ -2,7 +2,7 @@ package getKthMagicNumber_17_09;
 
 public class GetKthMagicNumber {
     public static void main(String[] args) {
-        int k = 3;
+        int k = 5;
         System.out.println(new Solution().getKthMagicNumber(k));
     }
 }
